@@ -85,7 +85,7 @@ export default function Blog() {
           className="text-center mt-16"
         >
           <a
-            href="https://www.linkedin.com/in/patriciah-mbua-ba7095241/recent-activity/all/"
+            href="https://www.linkedin.com/in/patriciah-mbua-ba7095241?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBNSmY0iORd6Ou3iib%2FNXAw%3D%3D"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-8 py-4 bg-brand-coral text-white rounded-xl font-medium hover:bg-brand-blue transition shadow-md"
