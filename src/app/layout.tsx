@@ -26,9 +26,16 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="en" className={darkMode ? 'dark' : ''}>
       <head>
-        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Montserrat:wght@500;600;700&display=swap" rel="stylesheet" />
-        <title>Patriciah Mbua</title>
-      </head>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Montserrat:wght@500;600;700&display=swap" rel="stylesheet" />
+  <title>Patriciah Mbua</title>
+
+  {/* ONLY THIS LINE — fixes LinkedIn preview */}
+  <meta property="og:image" content="https://patriciahportfolio-m4fbdvfcn-patriciah-mbuas-projects.vercel.app/og-image.png" />
+
+  {/* FAVICON */}
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+  <link rel="icon" href="/favicon.ico" />
+</head>
       <body className="bg-brand-cream dark:bg-gray-900 text-brand-gray dark:text-gray-100 min-h-screen flex flex-col font-body">
         
         {/* NAV */}
