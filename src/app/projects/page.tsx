@@ -9,7 +9,7 @@ const projects = [
     title: 'Pixabay Dashboard',
     tech: 'Flutter • Dart • API',
     desc: 'Beautiful image search dashboard with filters & favorites.',
-    live: '#',
+    live: 'https://boonerd.github.io/pixabay_dashboard/',
     code: 'https://github.com/Boonerd/pixabay_dashboard',
   },
   {
