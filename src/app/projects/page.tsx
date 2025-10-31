@@ -52,9 +52,14 @@ export default function Projects() {
             <p className="text-sm text-brand-coral mb-3">{p.tech}</p>
             <p className="text-gray-600 dark:text-gray-300 mb-4">{p.desc}</p>
             <div className="flex gap-4">
-              <a href={p.live} className="flex items-center gap-1 text-brand-blue hover:text-brand-coral">
-                <ExternalLink className="w-4 h-4" /> Live
-              </a>
+              <a 
+              href={p.live}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex items-center gap-1 text-brand-blue hover:text-brand-coral"
+              >
+  <ExternalLink className="w-4 h-4" /> Live
+</a>
               <a href={p.code} className="flex items-center gap-1 text-brand-blue hover:text-brand-coral">
                 <Github className="w-4 h-4" /> Code
               </a>
