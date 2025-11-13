@@ -20,11 +20,11 @@ const projects = [
     code: 'https://github.com/Boonerd/dev-portfolio-projects',
   },
   {
-    title: 'Mental Health Triage',
-    tech: 'Python • Flask • ML',
-    desc: 'Web tool to assess mental health risk via questionnaire.',
-    live: '#',
-    code: 'https://github.com/PattyMbua/mental-health-triage-system',
+    title: 'LexFlow Legal Solutions',
+    tech: 'React • TypeScript • Tailwind • EmailJS',
+    desc: 'Modern legal firm site with animated barrister icons, contact form, and dark mode.',
+    live: 'https://lexflow-legal.vercel.app',
+    code: 'https://github.com/PattyMbua/lexflow-legal',
   },
   {
     title: 'AI Text Summarizer',
@@ -32,6 +32,13 @@ const projects = [
     desc: 'Summarizes long articles in seconds.',
     live: '#',
     code: 'https://github.com/Boonerd/ai-text-summarizer',
+  },
+  {
+    title: 'Mental Health Triage',
+    tech: 'Python • Flask • ML',
+    desc: 'Web tool to assess mental health risk via questionnaire.',
+    live: '#',
+    code: 'https://github.com/PattyMbua/mental-health-triage-system',
   },
 ];
 

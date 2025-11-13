@@ -22,7 +22,7 @@ export default function Home() {
         </p>
 
         <p className="text-base text-brand-blue font-medium mb-10">
-          "Python • React • Flutter | Turning ideas into simple, impactful experiences."
+          Python • React • Flutter | Turning ideas into simple, impactful experiences.
         </p>
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
