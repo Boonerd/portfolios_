@@ -30,8 +30,8 @@ const projects = [
     title: 'AI Text Summarizer',
     tech: 'Python • NLP • Streamlit',
     desc: 'Summarizes long articles in seconds.',
-    live: '#',
-    code: 'https://github.com/Boonerd/ai-text-summarizer',
+    live: 'https://frontend-summarizer.vercel.app/',
+    code: 'https://github.com/Boonerd/backend_portfolio_vercel/tree/main/ai-text-summarizer',
   },
   {
     title: 'Mental Health Triage',
