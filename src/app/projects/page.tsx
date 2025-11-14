@@ -23,7 +23,7 @@ const projects = [
     title: 'LexFlow Legal Solutions',
     tech: 'React • TypeScript • Tailwind • EmailJS',
     desc: 'Modern legal firm site with animated barrister icons, contact form, and dark mode.',
-    live: 'https://lexflow-hi437fju5-patriciah-mbuas-projects.vercel.app/',
+    live: 'https://dev-portfolio-projects.vercel.app/',
     code: 'https://github.com/Boonerd/dev-portfolio-projects/tree/main/lexflow-legal',
   },
   {
