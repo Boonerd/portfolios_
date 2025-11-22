@@ -33,18 +33,11 @@ const projects = [
     live: 'https://frontend-summarizer.vercel.app/',
     code: 'https://github.com/Boonerd/backend_portfolio_vercel/tree/main/ai-text-summarizer',
   },
-  {
-    title: 'Mental Health Triage',
-    tech: 'Python • Flask • ML',
-    desc: 'Web tool to assess mental health risk via questionnaire.',
-    live: '#',
-    code: 'https://github.com/PattyMbua/mental-health-triage-system',
-  },
 ];
 
 export default function Projects() {
   return (
-    <section className="py-20 px-6">
+  <section className="py-20 px-6">
       <h2 className="text-4xl font-bold text-center text-brand-blue mb-12">Projects</h2>
       <div className="max-w-5xl mx-auto grid md:grid-cols-2 gap-8">
         {projects.map((p, i) => (

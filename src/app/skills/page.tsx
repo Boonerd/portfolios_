@@ -7,7 +7,7 @@ import { ExternalLink } from 'lucide-react';
 const techSkills = [
   { name: 'React.js', link: 'https://boonerd.github.io/dev-portfolio-projects/' },
   { name: 'Next.js', link: 'https://patriciah-portfolio.vercel.app/' },
-  { name: 'TypeScript', link: 'https://github.com/yourusername/ts-playground' },
+  { name: 'TypeScript', link: 'https://github.com/Boonerd/portfolios_' },
   { name: 'JavaScript', link: 'https://github.com/yourusername/js-challenges' },
   { name: 'Python', link: 'https://frontend-summarizer.vercel.app/' },
   { name: 'Flutter', link: 'https://github.com/yourusername/flutter-pixabay' },
@@ -15,7 +15,7 @@ const techSkills = [
   { name: 'GitHub', link: 'https://github.com/Boonerd' },
   { name: 'Tailwind CSS', link: 'https://patriciah-portfolio.vercel.app/' },
   { name: 'Flask', link: 'https://frontend-summarizer.vercel.app/' },
-  { name: 'HTML/CSS', link: 'https://github.com/yourusername/html-css-projects' },
+  { name: 'HTML/CSS', link: 'https://github.com/Boonerd/frontend-projects/tree/main/LandingPage' },
   { name: 'REST APIs', link: 'https://boonerd.github.io/pixabay_dashboard/#/dashboard' },
 ];
 
