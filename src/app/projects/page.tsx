@@ -33,6 +33,16 @@ const projects = [
     live: 'https://frontend-summarizer.vercel.app/',
     code: 'https://github.com/Boonerd/backend_portfolio_vercel/tree/main/ai-text-summarizer',
   },
+
+  {
+  title: 'Lume – Premium Event Planning',
+  tech: 'Next.js 14 • TypeScript • Tailwind v4 • Framer Motion • Formspree',
+  desc: 'A luxury event planning brand with cream/orange design, real undraw illustrations, working contact form, light/dark mode, and mobile perfection.',
+  live: 'https://lume-neon.vercel.app/',
+  code: 'https://github.com/Boonerd/frontend-projects/tree/main/Lume',
+  featured: true,
+  badge: 'Personal Brand', 
+},
 ];
 
 export default function Projects() {
