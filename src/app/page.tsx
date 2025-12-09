@@ -16,9 +16,9 @@ export default function Home() {
   // Things that are true about me right now – change them whenever you want!
   const currentlyItems = [
     'Sipping Kenyan AA coffee (black, no sugar)',
-    'Building a agir-business mock website',
+    'Building a agri-business mock website',
     'Reading for my exams',
-    'Looking to learn how to make animations on blender',
+    'Looking to learn how to create animations on blender',
     'Looking for work',
     'Learning Javascript and its variations',
   ];
