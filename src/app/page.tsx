@@ -30,7 +30,7 @@ export default function Home() {
             <Code2 className="w-5 h-5" /> View My Work
           </Link>
           <Link href="/contact" className="px-8 py-3 border-2 border-brand-coral text-brand-coral rounded-xl font-medium hover:bg-brand-coral hover:text-white transition">
-            Let&apos;s Connect
+             Say hi👋🏾
           </Link>
         </div>
       </div>
