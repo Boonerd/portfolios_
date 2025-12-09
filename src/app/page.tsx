@@ -18,9 +18,9 @@ export default function Home() {
     'Sipping Kenyan AA coffee (black, no sugar)',
     'Building a agri-business mock website',
     'Reading for my exams',
-    'Looking to learn how to create animations on blender',
-    'Looking for work',
-    'Learning Javascript and its variations',
+    'Learning animation in Blender',
+    'Looking for freelance work',
+    'Learning JavaScript and its frameworks',
   ];
 
   const [currentIndex, setCurrentIndex] = useState(0);
