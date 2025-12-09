@@ -6,18 +6,6 @@ import { ExternalLink } from 'lucide-react';
 
 const posts = [
   {
-    id: '1',
-    title: 'Positive Living During Hard Times: What It Means to Me Right Now',
-    desc: 'A heartfelt reflection on finding calm, purpose, and gratitude when life feels uncertain.',
-    url: 'https://www.linkedin.com/posts/patriciah-mbua-ba7095241_mentalhealth-positiveliving-resilience-activity-7351498399034097665-Aw9x?utm_source=share&utm_medium=member_desktop&rcm=ACoAADv9kW8BxblFpzz_39nKB_thBeG8aQoGT1U', // ← YOUR REAL POST URL
-  },
-  {
-    id: '2',
-    title: 'Working, Studying, and Surviving Your 20s',
-    desc: 'An honest look at the chaos and growth in your 20s.',
-    url: 'https://www.linkedin.com/posts/patriciah-mbua-ba7095241_workingwhilestudying-lifeinyour20s-activity-7318503534256128001-frla?utm_source=share&utm_medium=member_desktop&rcm=ACoAADv9kW8BxblFpzz_39nKB_thBeG8aQoGT1U',
-  },
-  {
     id: '3',
     title: 'The New Inbox Obsession',
     desc: 'What constant checking is doing to our peace of mind.',
