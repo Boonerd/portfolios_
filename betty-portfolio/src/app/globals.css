@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+/* This line loads your tailwind.config.ts so custom colors like bg-cream work */
+@config "../../tailwind.config.ts";
+
+@layer base {
+  body {
+    @apply bg-cream text-greenDark font-sans;
+  }
+}
