@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-page-custom-font */
 // src/app/layout.tsx
 'use client';
 
@@ -12,7 +13,6 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   useEffect(() => {
     const saved = localStorage.getItem('darkMode');
     const isDark = saved === 'true';
-    setDarkMode(isDark);
     document.documentElement.classList.toggle('dark', isDark);
   }, []);
 

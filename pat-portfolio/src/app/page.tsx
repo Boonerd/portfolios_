@@ -7,7 +7,12 @@ import { Code2, Sparkles } from 'lucide-react';
 export default function Home() {
   return (
     <section className="min-h-screen flex items-center justify-center px-6 py-12">
-      <div className="text-center max-w-4xl mx-auto">
+      <div className="text-center max-w-3xl mx-auto">
+        {/* Profile image */}
+        <img src="/patriciah.jpg" 
+          alt="Patriciah" 
+          className="w-25 h-25 rounded-full mx-auto mb-6 object-cover"
+          />
         {/* Little badge at the top */}
         <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-brand-coral/10 border border-brand-coral/30 mb-8">
           <Sparkles className="w-4 h-4 text-brand-coral" />
@@ -17,7 +22,7 @@ export default function Home() {
         </div>
 
         {/* Big friendly greeting */}
-        <h1 className="text-5xl md:text-7xl font-bold text-brand-blue mb-6 leading-tight">
+        <h1 className="text-4xl md:text-5xl font-bold text-brand-blue mb-6 leading-tight">
           Hey, I&apos;m <span className="text-brand-coral">Patriciah</span>
         </h1>
 
