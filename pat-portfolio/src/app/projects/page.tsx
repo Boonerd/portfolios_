@@ -13,13 +13,6 @@ const projects = [
     code: 'https://github.com/Boonerd/pixabay_dashboard',
   },
   {
-    title: 'React Dev Portfolio',
-    tech: 'React • Tailwind • Framer',
-    desc: 'This site! Animated, responsive, dark mode.',
-    live: 'https://boonerd.github.io/dev-portfolio-projects/',
-    code: 'https://github.com/Boonerd/dev-portfolio-projects',
-  },
-  {
     title: 'LexFlow Legal Solutions',
     tech: 'React • TypeScript • Tailwind • EmailJS',
     desc: 'Modern legal firm site with animated barrister icons, contact form, and dark mode.',
